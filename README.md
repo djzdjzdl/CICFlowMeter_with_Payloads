@@ -47,3 +47,9 @@ At the project root
 mvn package
 ```
 the jar file will be in the pathtoproject/CICFlowMeter/target
+
+
+
+### Payloads
+
+`saving codes with flow data`
